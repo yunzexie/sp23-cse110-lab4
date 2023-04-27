@@ -15,4 +15,24 @@
     3.  student.greeting()
     4.  student['Favorite Teacher'].name
     5.  student.courseLoad[0]
-13. 
+13. Answer:
+    1.  32
+    2.  1
+    3.  3
+    4.  '3null'
+    5.  4
+    6.  0
+    7.  '3undefined'
+    8.  NaN
+14. Answer:
+    1.  True
+    2.  False
+    3.  True
+    4.  False
+    5.  False
+    6.  True
+15. == operator does the type conversion of the operands before comparison, while === operator compares the value as well as the date types of the operands.
+16. (Coding Problem) 21, 45, 5, 2
+17. [ 2, 4, 6 ] The modifyArray function is called, then it will enter its loop, and every iteration it will apply the callback function on one item of its input array in order. Then it will store the new items into a new array and return it.
+18. (Coding Problem) 
+19. 1 4 3 2
